@@ -5,4 +5,5 @@ package ru.javawebinar.webapp.model;
  */
 public class Resume {
     public String firstName;
+    public String lastName;
 }
